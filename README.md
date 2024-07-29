@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <hr>
 
 - I'm a Software Engineer at [Instacart](https://www.instacart.com/company/about-us#company-history) on the transactions platform team. 🥕
-- I hang around the Tech Career North community, helping build up Canadian tech with friends, mentor folks to get into good companies. 🍁
+- I hang around the [Tech Career North](https://discord.gg/96rkQyC5rX) community, helping build up Canadian tech with friends, mentor folks to get into good companies. 🍁
 - I try out new restaurants, go visit beautiful places around Vancouver. 🐋
 
 ### What I've done 📜
