@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 
 ### What I do
 <hr>
+
 - I'm a Software Engineer @Instacart on the transactions platform team.
 - I hang around the Tech Career North community, helping build up Canadian tech with friends, mentor folks to get into good companies.
 - Try out new restaurants, go visit beautiful places around Vancouver.
 
 ### What I've done
 <hr>
+
 - Built and disbanded several startup proof of concepts; interviewing with [YCombinator](https://www.ycombinator.com/) in 2024S, placing within the top 8% historically.
 - Investigated single cell cancer genomics with many ML/AI algos at the Nobel Laureate-established [Michael Smith Genome Sciences Centre](https://www.bcgsc.ca/about-us/our-story).
 - Designed the API for open source software legal and security audits which all products at [BlackBerry](https://www.blackberry.com/) go through.
@@ -32,4 +34,5 @@ Here are some ideas to get you started:
 - Organized and led CS career workshops averaging hundreds of attendees and the [UBC Tech Career Fair](https://ubccsss.org/tcf/), with over 2,000 attendees.
 
 <hr>
+
 Want to talk more? Message me on LinkedIn.
