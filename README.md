@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-Want to talk more? Message me on [LinkedIn](https://linkedin.com/in/wgervasio) or contact my email [will@gervasio.ca](mailto:will@gervasio.ca).
+Want to talk more? Message me on [LinkedIn](https://linkedin.com/in/wgervasio) or contact my email will (at) gervasio.ca.
