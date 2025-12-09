@@ -1,4 +1,4 @@
-## I'm William Gervasio🫡
+## William Gervasio
 
 <!--
 **wgervasio/wgervasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### What I do 🤔
-<hr>
 
 - I am the youngest Member of Technical Staff at Microsoft AI's core product team.
 - I led the Receipt Recognition project at Instacart that detects discrepancies across 80%+ of orders, driving millions in savings per month. I gained an exception from leadership to ignore all years of experience requirements for a promotion within my first 6 months.
