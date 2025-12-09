@@ -18,21 +18,9 @@ Here are some ideas to get you started:
 ### What I do 🤔
 <hr>
 
-- I'm a Software Engineer at [Instacart](https://www.instacart.com/company/about-us#company-history) on the transactions platform team. 🥕
-- I hang around the [Tech Career North](https://discord.gg/96rkQyC5rX) community, helping build up Canadian tech with friends, mentor folks to get into good companies. 🍁
-- I try out new restaurants, go visit beautiful places around Vancouver. 🐋
-
-### What I've done 📜
-<hr>
-
-- Built and disbanded several startup proof of concepts; interviewing with [YCombinator](https://www.ycombinator.com/) in 2024S, placing within the top 8% historically. 👾
-- Investigated single cell cancer genomics with many ML/AI algos at the Nobel Laureate-established [Michael Smith Genome Sciences Centre](https://www.bcgsc.ca/about-us/our-story). 🧬
-- Designed the API for open source software legal and security audits which all products at [BlackBerry](https://www.blackberry.com/) go through. 📱
-- Upgraded AWS Redshift and PostgreSQL drivers to support Apple silicon PC's under the creators of ODBC, [Simba Technologies (acquired)](https://insightsoftware.com/about-simba-drivers/). 📈
-- Presented my ML/AI research from the [Centre for Heart Lung Innovation](https://www.hli.ubc.ca/) & [PROOF Centre for Excellence](https://www.proofcentre.ca/) to an international conference. 💉
-- Led course operations for [UBC's Online Software Engineering MicroMaster's](https://www.cs.ubc.ca/news/2017/03/ubc-launches-edx-micromasters-program-software-development) of 180,000+ students. 🎓
-- Organized and led CS career workshops averaging hundreds of attendees and the [UBC Tech Career Fair](https://ubccsss.org/tcf/), with over 2,000 attendees. 🤝
+- I am the youngest Member of Technical Staff at Microsoft AI's core product team.
+- I ledthe ML/AI Receipt Recognition project at Instacart that detects discrepancies across 80%+ of orders and gained an exception from leadership to ignore all years of experience requirements for promotion.
 
 <hr>
 
-Want to talk more? Message me on [LinkedIn](https://linkedin.com/in/wgervasio) or contact my email will (at) gervasio.ca.
+Want to talk more? Message me on [LinkedIn](https://linkedin.com/in/wgervasio).
