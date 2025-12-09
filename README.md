@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 - I am the youngest Member of Technical Staff at Microsoft AI's core product team.
 - I led the Receipt Recognition project at Instacart that detects discrepancies across 80%+ of orders, driving millions in savings per month. I gained an exception from leadership to ignore all years of experience requirements for a promotion within my first 6 months.
+- I built and disbanded several startup proof of concepts; interviewing with [YCombinator](https://www.ycombinator.com/) in 2024S.
+- I used to be a cancer researcher for single cell genomics at the Nobel Laureate-established [Michael Smith Genome Sciences Centre](https://www.bcgsc.ca/about-us/our-story)
 
 <hr>
 
