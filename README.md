@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <hr>
 
 - I am the youngest Member of Technical Staff at Microsoft AI's core product team.
-- I ledthe ML/AI Receipt Recognition project at Instacart that detects discrepancies across 80%+ of orders and gained an exception from leadership to ignore all years of experience requirements for promotion.
+- I led the Receipt Recognition project at Instacart that detects discrepancies across 80%+ of orders, driving millions in savings per month. I gained an exception from leadership to ignore all years of experience requirements for a promotion within my first 6 months.
 
 <hr>
 
